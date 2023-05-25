@@ -8,7 +8,8 @@
     width: 145px;
     background-color: transparent;
     position: relative;
-    margin-left: 33%;
+    margin-left: 25%;
+    margin-bottom: 10%;
   }
   
   .btn-home::after {

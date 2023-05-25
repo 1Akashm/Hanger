@@ -1,0 +1,68 @@
+/*Style for Alexander */
+.logo-container
+{
+    position: relative;
+    left: 25%;
+}
+
+/* style={{ display: 'flex', gap: 20, flexWrap: 'wrap' }}  */
+
+.container-shoe
+{
+    display: flex;
+    gap: 20;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+    /* left: 30px; */
+    /* right: 50px; */
+    /* top: -20px; */
+    margin-top: 20px;
+    /* background-color: red; */
+}
+
+/* style={{ backgroundColor: 'red', height: "50px", width: "200px" }} */
+.container-inside
+{
+    /* height: 5px; */
+    width: 400px;
+}
+
+.content-detail
+{
+    /* background-color: red; */
+    width: 40%;
+    position: relative;
+    left: 30%;
+}
+
+
+/* style for Nike */
+.nike-logo
+{
+    height: 150px;
+    width: 90%;
+    margin-left: 5%;
+}
+
+.Nike-shoe
+{
+    display: flex;
+    gap: 20;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    position: relative;
+}
+
+.image-style
+{
+    height: 500px;
+    width: 500px;
+}
+
+
+.container-inside-nike
+{
+    margin-top: 20px;
+    width: 400px;
+}
