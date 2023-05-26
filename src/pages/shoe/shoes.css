@@ -3,6 +3,7 @@
 {
     position: relative;
     left: 25%;
+    cursor: pointer;
 }
 
 /* style={{ display: 'flex', gap: 20, flexWrap: 'wrap' }}  */
@@ -43,6 +44,7 @@
     height: 150px;
     width: 90%;
     margin-left: 5%;
+    cursor: pointer;
 }
 
 .Nike-shoe
@@ -62,6 +64,23 @@
 
 
 .container-inside-nike
+{
+    margin-top: 20px;
+    width: 400px;
+}
+
+
+/* New balance style */
+
+
+.newbalance-logo
+{
+    height: 180px;
+    margin-left: 40%;
+    cursor: pointer;
+}
+
+.container-inside-newbalance
 {
     margin-top: 20px;
     width: 400px;
